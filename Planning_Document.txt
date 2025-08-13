@@ -1,0 +1,19 @@
+'''
+REQUIREMENTS
+- Teachers give blocks of time that work for their students
+- Blocks of times that do not work for a student
+- SLP cannot see more than three students
+- If grouped, cannot be > 3 
+- not every kid is seen every week
+- don't make SLP drive around town/make it more convienient
+'''
+
+'''
+STRATEGY
+- start out filling one or more requirements and enhance along the way
+    - Start with first 2. 
+'''
+
+'''
+
+'''
