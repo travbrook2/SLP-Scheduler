@@ -15,5 +15,17 @@ STRATEGY
 '''
 
 '''
-
+Objects
+- Teacher
+    - school
+    - time available?
+    - students?
+- student
+    - school
+    - times available?
+    - speech disorder
+    - 
+- schedule
+    - 
+- school???
 '''
